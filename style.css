@@ -196,3 +196,58 @@ margin-bottom: 20px;
   color: rgba(7, 2, 17, 0.60);
   margin-bottom: 20px;
 }
+/* HOLIDAYS SECTION */
+.holiday-title {
+  color: black;
+  font-size: 4rem;
+  font-weight: 900;
+  margin-bottom: 30px;
+}
+.holiday-heading {
+  margin-bottom: 15px;
+}
+.holidays-color {
+  color: #F00;
+}
+.holiday-para {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+.holiday {
+  text-align: center;
+}
+.holiday-image {
+  max-width: 1400px;
+  height: 800px;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 0;
+}
+.holiday-img1 {
+  position: absolute;
+  z-index: 1;
+}
+.holiday-img1 {
+  mix-blend-mode: darken;
+}
+.holiday-img2 {
+  position: absolute;
+  right: 0;
+  z-index: 1;
+  top: 10%;
+  left: 32%;
+}
+.holiday-img3 {
+  position: absolute;
+  right: 0%;
+  right: 1.6%;
+  top: 1%;
+}
+
+.holiday-img4 {
+  position: absolute;
+  top: 55%;
+  left: 0;
+  right: 0;
+}
