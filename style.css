@@ -8,8 +8,8 @@ body {
   font-family: 'Roboto', sans-serif;
   font-family: 'Ubuntu', sans-serif;
 }
-header {
-  margin-bottom: 150px;
+.header-banner {
+  margin: 0 auto;
 }
 .btn-primary {
   border: none;
