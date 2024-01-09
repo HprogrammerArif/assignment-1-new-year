@@ -335,6 +335,7 @@ margin-bottom: 20px;
   background: #FFF;
   padding: 15px;
   padding-left: 40px;
+  margin-right: -4px;
 }
 .input-button {
   border: none;
@@ -342,4 +343,49 @@ margin-bottom: 20px;
   border-radius: 0px 50px 50px 0px;
   background: #F00;
   padding-right: 20px;
+}
+
+/* FOOTER SECTION */
+.footer {
+  background-color: #070211;
+  color: #FFF;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.footer-section-1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 30px;
+}
+.section-1-left-side {
+  max-width: 250px;
+  line-height: 30px;
+}
+.section-1-call-section {
+  display: flex;
+  margin: 30px;
+  margin-bottom: 0;
+  gap: 10px;
+}
+.section-1-website-section {
+  display: flex;
+  margin: 30px;
+  margin-top: 0;
+  gap: 10px;
+}
+.footer-section-2 {
+  text-align: center;
+  margin: 30px;
+}
+.footer-section-2 img {
+  padding: 10px;
+  width: 50px;
+}
+.footer-section-3 {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 40px;
+  padding-top: 30px;
+  padding-bottom: 100px;
 }
